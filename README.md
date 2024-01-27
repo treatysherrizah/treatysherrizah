@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Mechatronics Engineering Student
 --------------------------------
+https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treatysherrizah&label=Profile%20views&color=0e75b6&style=flat" alt="treatysherrizah" /> </p>
 
