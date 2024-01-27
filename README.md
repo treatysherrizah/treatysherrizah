@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mechatronics Engineering Student
 --------------------------------
 
-I've been learning to code for a month and now I'm still widen my knowledge about coding.
+I'm still learning about coding and widen my knowledge to it.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [treatyblasco03@gmail.com](mailto:treatyblasco03@gmail.com)
