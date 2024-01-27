@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Mechatronics Engineering Student
 --------------------------------
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkyMTJ0azdnbHZuejc1aGxjZTh0OW55Ym12eWNsOGpjcnI3dWRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treatysherrizah&label=Profile%20views&color=0e75b6&style=flat" alt="treatysherrizah" /> </p>
 
