@@ -4,18 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mechatronics Engineering Student
 --------------------------------
 
-I'm still learning about coding and widen my knowledge to it.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=treatysherrizah&label=Profile%20views&color=0e75b6&style=flat" alt="treatysherrizah" /> </p>
 
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [treatyblasco03@gmail.com](mailto:treatyblasco03@gmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=treatysherrizah" alt="treatysherrizah" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/shrrzh" target="blank"><img src="https://img.shields.io/twitter/follow/shrrzh?logo=twitter&style=for-the-badge" alt="shrrzh" /></a> </p>
 
-### Skills
+- 📫 How to reach me **treatyblasco03@gmail.com**
 
+- ⚡ Fun fact **I talk to the cat**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+<a href="https://twitter.com/shrrzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrrzh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/treaty blasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="treaty blasco" height="30" width="40" /></a>
+<a href="https://fb.com/treaty sherrizah blasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="treaty sherrizah blasco" height="30" width="40" /></a>
+<a href="https://instagram.com/shewwezah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shewwezah" height="30" width="40" /></a>
 </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=treatysherrizah&show_icons=true&locale=en&layout=compact" alt="treatysherrizah" /></p>
 
-<p align="left"> <a href="https://www.facebook.com/https://www.facebook.com/treaty.blasco?mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/https://github.com/treatysherrizah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/https://www.instagram.com/shewwezah/?igsh=MXhzcTFtejc4dzNmNA%3D%3D" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/https://twitter.com/treatysherrizah?t=2w3_mZUF9xPi2ONukCvpBQ" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=treatysherrizah&show_icons=true&locale=en" alt="treatysherrizah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=treatysherrizah&" alt="treatysherrizah" /></p>
