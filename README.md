@@ -13,7 +13,7 @@ Mechatronics Engineering Student
 
 - 📫 How to reach me **treatyblasco03@gmail.com**
 
-- ⚡ Fun fact **I talk to the cat**
+- ⚡ Fun fact **I talk to a cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
