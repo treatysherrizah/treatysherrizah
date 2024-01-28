@@ -4,13 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treatysherrizah&label=Profile%20views&color=0e75b6&style=flat" alt="treatysherrizah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=treatysherrizah" alt="treatysherrizah" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shrrzh" target="blank"><img src="https://img.shields.io/twitter/follow/shrrzh?logo=twitter&style=for-the-badge" alt="shrrzh" /></a> </p>
 
 - 📫 How to reach me **treatyblasco03@gmail.com**
 
-- ⚡ Fun fact **I talk to a cat**
+- ⚡ Fun fact **I talk to the cat**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=treatysherrizah" alt="treatysherrizah" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
