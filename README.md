@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Treaty Sherrizah</h1>
 <h3 align="center">A Mechatronics Engineering Student</h3>
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkyMTJ0azdnbHZuejc1aGxjZTh0OW55Ym12eWNsOGpjcnI3dWRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkyMTJ0azdnbHZuejc1aGxjZTh0OW55Ym12eWNsOGpjcnI3dWRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treatysherrizah&label=Profile%20views&color=0e75b6&style=flat" alt="treatysherrizah" /> </p>
 
