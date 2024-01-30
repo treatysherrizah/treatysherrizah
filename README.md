@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=treatysherrizah.treatysherrizah" />
+
 <h1 align="center">Hi 👋, I'm Treaty Sherrizah</h1>
 <h3 align="center">A Mechatronics Engineering Student</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkyMTJ0azdnbHZuejc1aGxjZTh0OW55Ym12eWNsOGpjcnI3dWRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
