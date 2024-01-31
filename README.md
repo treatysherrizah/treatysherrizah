@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=treatysherrizah&show_icons=true&locale=en" alt="treatysherrizah" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=treatysherrizah&" alt="treatysherrizah" /></p>
-
-weeeww
